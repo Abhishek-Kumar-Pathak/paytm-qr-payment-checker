@@ -1,6 +1,6 @@
 
 # Paytm Payment Checker
-Verify Payment made by Paytm QR without paytm payment gateway
+Verify Payment made via Paytm QR without paytm payment gateway
 
 - `index.php` Ln 46, add Qr path
 - `mail.php` Ln 6 & 7, add gmail credentials.
